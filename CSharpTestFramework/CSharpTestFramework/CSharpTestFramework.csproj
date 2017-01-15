@@ -52,6 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Selenium\SeleniumDriver.cs" />
     <Compile Include="Selenium\SeleniumHandler.cs" />
+    <Compile Include="WebService\RestHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
