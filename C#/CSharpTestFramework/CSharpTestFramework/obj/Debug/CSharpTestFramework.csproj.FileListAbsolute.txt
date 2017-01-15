@@ -1,0 +1,9 @@
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\CSharpTestFramework.dll
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\CSharpTestFramework.pdb
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\WebDriver.dll
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\WebDriver.Support.dll
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\WebDriver.xml
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\bin\Debug\WebDriver.Support.xml
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\obj\Debug\CSharpTestFramework.csprojResolveAssemblyReference.cache
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\obj\Debug\CSharpTestFramework.dll
+C:\developmentworkspace\Testing\C#\CSharpTestFramework\CSharpTestFramework\obj\Debug\CSharpTestFramework.pdb
